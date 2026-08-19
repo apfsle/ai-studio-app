@@ -1,0 +1,6 @@
+{
+  "name": "Houston Caregiver Agency - AI Video & Lead Acquisition Engine",
+  "description": "Enterprise AI video marketing, AEO/GEO indexing, conversational AI search recommendations, and 2-minute automated lead capture CRM for Houston Caregiver Agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
